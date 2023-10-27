@@ -1,2 +1,2 @@
 # en-ch-nmt
-English to Cherokee NMT system
+An (almost) from scratch English to Cherokee NMT system
